@@ -1,0 +1,15 @@
+server:
+  port: 8091
+
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+#          facebook:
+#            clientId: 1172718690079239
+#            clientSecret: 755bdc6758bd9b59ded4127dcc3f47df
+
+          google:
+            clientId: 485164513716-flq98g2ail9abncagbkis6hengqpo6q6.apps.googleusercontent.com
+            clientSecret: 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
